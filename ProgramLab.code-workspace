@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "mlp_l031_vsc",
+			"path": "../../Downloads/mlp_l031_vsc/mlp_l031_vsc"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
